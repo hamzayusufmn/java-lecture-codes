@@ -20,6 +20,7 @@ public class prices {
 
         System.out.printf("%d of %s at $%.2f each costs $%.2f",
                 quantity,productname, price ,totalPrice);
+        // the % shows and helps with the outcome and uses dollar signs and percentages
 
 
 

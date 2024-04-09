@@ -18,6 +18,7 @@ public class milestomctc {
 
         } else if (miles == 10) {
             System.out.println(" You live exactly 10 miles away");
+            // double == can fall into exactly the number and help with those situations.
         }
         else {
             System.out.println(" you live less than 10 miles away");

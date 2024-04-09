@@ -10,6 +10,7 @@ public class oilchange {
         for (int oilChange = 0; oilChange < 8; oilChange++) {
             mileage = mileage + interval;
             System.out.println(" get an oil change at " + mileage + "miles");
+// does it stop after 150000 how do i expand from that
 
 
 

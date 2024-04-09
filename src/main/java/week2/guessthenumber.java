@@ -21,7 +21,7 @@ public class guessthenumber {
 
             System.out.println("Correct!");
 
-
+// code that expanded on guessing the game can be adjusted
         }
 
 

@@ -4,13 +4,13 @@ import java.util.Arrays;
 
 public class arrayexamples {
     public static void main(String[] args) {
-        // exa,ples int arrays
+        // examples int arrays
         int[] numbers = new int[5];
         numbers[0] = 4;
         numbers[1] = 100;
 //        numbers[5] = 3;
 
-
+ // string names can be easily copied and repeat code.
             String[] classNames = { "Java", "c#", "web"};
 //            classnames[0] = "Java";
 //            classnames[1] = "c#";

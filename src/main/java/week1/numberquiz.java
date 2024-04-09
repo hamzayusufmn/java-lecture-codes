@@ -17,5 +17,6 @@ public class numberquiz {
             }
         }
 
+// this code can be upgraded with other one shown by teacher. the number can go up to 100.
 
 

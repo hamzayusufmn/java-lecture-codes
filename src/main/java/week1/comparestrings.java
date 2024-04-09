@@ -12,6 +12,7 @@ public class comparestrings {
         System.out.println(" Yay, MCTC");
     }  else
          System.out.println(" too bad, you should check out MCTC");
+        // else statments give user other answer and can be used with { after and not ()
 
 
     }

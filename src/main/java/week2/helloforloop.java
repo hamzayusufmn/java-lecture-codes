@@ -7,6 +7,7 @@ public class helloforloop {
         for( int x = 0; x < 10;  x++) {
             System.out.println(x);
 
+// this lab counts to 10 and can be used a starter to learn loops
 
         }
 

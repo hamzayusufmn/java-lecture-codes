@@ -20,6 +20,7 @@ public class helloinput {
 
         if (numberofClasses == 1) {
             units = "class";
+            // if statments can help see if a solution is correct you can system out print it with it
 
         }
 
