@@ -1,0 +1,7 @@
+Hello!
+Hello Java Students
+Goodbye!
+
+Other Data
+Hello Programmers
+End of file
